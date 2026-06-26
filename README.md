@@ -19,6 +19,17 @@ This project demonstrates how modern AI can be integrated with backend technolog
 
 ---
 
+## Application Preview
+
+### Swagger UI
+
+<img width="1876" height="855" alt="image" src="https://github.com/user-attachments/assets/f5a2e14b-1172-4709-9a2c-018d2c1a3e5c" />
+
+
+### AI Career Analysis
+
+<img width="1814" height="911" alt="image" src="https://github.com/user-attachments/assets/780be87c-24f5-4d3d-a9dc-7b7e36686eb9" />
+
 # ✨ Features
 
 * Store resumes in MongoDB Atlas
