@@ -350,3 +350,11 @@ This project is licensed under the MIT License.
 If you found this project useful, please consider giving it a ⭐ on GitHub.
 
 It helps others discover the project and motivates future improvements.
+
+# 🚀 AI Career Mentor
+
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-REST-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-success)
+![Gemini](https://img.shields.io/badge/Google-Gemini-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
